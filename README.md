@@ -4,11 +4,11 @@ This repository contains code associated with the paper titled "[Vegetation Land
 
 ## Table of Contents
 1. [Acknowledgement](#acknowledgement)  
-2. [Data](https://github.com/Forest-Fire-Research/vegetation-land-cover-canada/blob/main/README.md#license)
-3. [Installation / Getting Started](https://github.com/Forest-Fire-Research/vegetation-land-cover-canada/blob/main/README.md#license)
-4. [License](https://github.com/Forest-Fire-Research/vegetation-land-cover-canada/edit/blob/README.md#license)
-5. [Contact](https://github.com/Forest-Fire-Research/vegetation-land-cover-canada/edit/blob/README.md#contact)
-6. [Citation / Referencing](https://github.com/Forest-Fire-Research/vegetation-land-cover-canada/blob/main/README.md#citation--referencing)
+2. [Data](#license)
+3. [Installation / Getting Started](#installation--getting-started)
+4. [License](#license)
+5. [Contact](#contact)
+6. [Citation / Referencing](#citation--referencing)
 
 ## Acknowledgement
 This is a collaborative research conducted by the [University of Waterloo](https://uwaterloo.ca/), [Dalhousie University](https://www.dal.ca/), and [Carleton University](https://carleton.ca/).
