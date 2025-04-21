@@ -21,8 +21,8 @@ The data used in this project/research is collated from multiple sources (multi-
 The data used in this research is available as follows:
 |Name                                               | Provider | Short Name | Link                                                                                                         |
 |---------------------------------------------------|----------|------------|--------------------------------------------------------------------------------------------------------------|
-| Canadian National Fire Database                   | NRCan    | CNFDB      | [Source](http://cwfis.cfs.nrcan.gc.ca/datamart)                                                                                                                                                 |
-| Land Cover of Canada                              | NRCan    | Land Cover | [Source]([https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/index-eng.cfm](https://open.canada.ca/data/en/dataset/11990a35-912e-4002-b197-d57dd88836d7))     |
+| Canadian National Fire Database                   | NRCan    | CNFDB      | [Source](http://cwfis.cfs.nrcan.gc.ca/datamart)                                                              |
+| Land Cover of Canada                              | NRCan    | Land Cover | [Source](https://open.canada.ca/data/en/dataset/11990a35-912e-4002-b197-d57dd88836d7)                        |
 
 
 ## Installation / Getting Started
