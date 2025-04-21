@@ -3,7 +3,7 @@
 This repository contains code associated with the paper titled "[Vegetation Land Cover and Forest Fires in Canada: An Analytical Data Visualization]()" presented in the [IEEE 49th Annual Computers, Software, and Applications Conference (COMPSAC)](https://ieeecompsac.computer.org/2025/) at [York University](https://www.yorku.ca/), Toronto, Canada.
 
 ## Table of Contents
-1. [Acknowledgement](https://github.com/Forest-Fire-Research/vegetation-land-cover-canada/blob/main/README.md#acknowledgement)  
+1. [Acknowledgement](#acknowledgement)  
 2. [Data](https://github.com/Forest-Fire-Research/vegetation-land-cover-canada/blob/main/README.md#license)
 3. [Installation / Getting Started](https://github.com/Forest-Fire-Research/vegetation-land-cover-canada/blob/main/README.md#license)
 4. [License](https://github.com/Forest-Fire-Research/vegetation-land-cover-canada/edit/blob/README.md#license)
