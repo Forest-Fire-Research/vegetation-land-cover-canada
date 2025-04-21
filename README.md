@@ -12,7 +12,7 @@ This repository contains code associated with the paper titled "[Vegetation Land
 
 ## Acknowledgement
 This is a collaborative research conducted by the [University of Waterloo](https://uwaterloo.ca/), [Dalhousie University](https://www.dal.ca/), and [Carleton University](https://carleton.ca/).
-This research was funded by NSERC Canada and industrial partners ([Cistel Technology](https://cistel.com/) and [Hegyi Geomatics](https://hegyigeomatics.com/).
+This research was funded by NSERC Canada and industrial partners ([Cistel Technology](https://cistel.com/) and [Hegyi Geomatics](https://hegyigeomatics.com/)).
 Additional computing support was provided by [Research Computing Services](https://carleton.ca/rcs/) at Carleton University.
 We wish to thank Natural Resources Canada for providing the data.
 
