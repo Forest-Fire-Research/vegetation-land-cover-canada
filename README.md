@@ -14,7 +14,8 @@ This repository contains code associated with the paper titled "[Vegetation Land
 This is a collaborative research conducted by the [University of Waterloo](https://uwaterloo.ca/), [Dalhousie University](https://www.dal.ca/), and [Carleton University](https://carleton.ca/).
 This research was funded by NSERC Canada and industrial partners ([Cistel Technology](https://cistel.com/) and [Hegyi Geomatics](https://hegyigeomatics.com/)).
 Additional computing support was provided by [Research Computing Services](https://carleton.ca/rcs/) at Carleton University.
-We wish to thank Natural Resources Canada for providing the data.
+We wish to thank Natural Resources Canada NRCan for providing the data.
+Additionally, we would like to acknowledge our participation in the [GeoIgnite](https://geoignite.ca/) 2025 NRCan Canada Centre for Mapping and Earth Observation (CCMEO) [GEO.ca](https://geo.ca/home/) Hackathon.
 
 ## Data
 The data used in this project/research is collated from multiple sources (multi-source data).
