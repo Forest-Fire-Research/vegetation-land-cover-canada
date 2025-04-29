@@ -28,6 +28,15 @@ The data used in this research is available as follows:
 
 ## Installation / Getting Started
 
+### Local Deployment
+
+To get started please create and virtual environment and install all the requirements listed in [requirements.txt](requirements.txt).
+```
+pip install -r requirements.txt
+```
+
+### Docker Deployment
+
 
 ## License
 Licensing details are provided [here](LICENSE).
