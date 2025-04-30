@@ -1,4 +1,6 @@
 dotenv==0.9.9
+GeoAlchemy2==0.17.1
+geopandas==1.0.1
 matplotlib==3.10.1
 numpy==2.2.5
 pandas==2.2.3
@@ -6,3 +8,5 @@ pillow==11.2.1
 python-dotenv==1.1.0
 rasterio==1.4.3
 sankeyflow==0.4.1
+shapely==2.1.0
+SQLAlchemy==2.0.40
