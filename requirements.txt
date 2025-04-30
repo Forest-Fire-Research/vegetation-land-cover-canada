@@ -5,3 +5,4 @@ pandas==2.2.3
 pillow==11.2.1
 python-dotenv==1.1.0
 rasterio==1.4.3
+sankeyflow==0.4.1
