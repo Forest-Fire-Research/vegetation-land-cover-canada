@@ -1,6 +1,6 @@
 # Vegetation Land Cover and Forest Fires in Canada: An Analytical Data Visualization
 
-This repository contains code associated with the paper titled "[Vegetation Land Cover and Forest Fires in Canada: An Analytical Data Visualization]()" presented in the [IEEE 49th Annual Computers, Software, and Applications Conference (COMPSAC)](https://ieeecompsac.computer.org/2025/) at [York University](https://www.yorku.ca/), Toronto, Canada.
+This repository contains code associated with the paper titled "[Vegetation Land Cover and Forest Fires in Canada: An Analytical Data Visualization](https://ieeexplore.ieee.org/document/11126752)" presented in the [IEEE 49th Annual Computers, Software, and Applications Conference (COMPSAC)](https://ieeecompsac.computer.org/2025/) at [York University](https://www.yorku.ca/), Toronto, Canada.
 
 ## Table of Contents
 1. [Acknowledgement](#acknowledgement)  
@@ -52,10 +52,12 @@ If you have any questions, please get in touch with us at: `mutakabbir@cmail.car
 ```
 @INPROCEEDINGS{mutakabbir2025compsac,
   author={Mutakabbir, Abdul and Lung, Chung-Horng and Zaman, Marzia and Naik, Kshirasagar and Purcell, Richard and Sampalli, Srinivas and Ravichandran, Thambirajah},
-  booktitle={IEEE 49th Annual Computers, Software, and Applications Conference (COMPSAC)}, 
+  booktitle={2025 IEEE 49th Annual Computers, Software, and Applications Conference (COMPSAC)}, 
   title={Vegetation Land Cover and Forest Fires in Canada: An Analytical Data Visualization}, 
   year={2025},
-  pages={TBD},
-  doi={TBD}
+  volume={},
+  number={},
+  pages={411-420},
+  doi={10.1109/COMPSAC65507.2025.00061}
 }
 ```
