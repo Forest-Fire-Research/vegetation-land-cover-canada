@@ -4,7 +4,7 @@ This repository contains code associated with the paper titled "[Vegetation Land
 
 ## Table of Contents
 1. [Acknowledgement](#acknowledgement)  
-2. [Data](#license)
+2. [Data](#data)
 3. [Installation / Getting Started](#installation--getting-started)
 4. [License](#license)
 5. [Contact](#contact)
